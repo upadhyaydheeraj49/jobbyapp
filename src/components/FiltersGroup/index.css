@@ -1,0 +1,26 @@
+.sidebar-filters-container {
+  
+}
+.sidebar-line {
+  border: 1px solid #7e858e;
+}
+.filter-category-heading {
+  color: #cbd5e1;
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 20px 0px;
+}
+.filters-container {
+  list-style-type: none;
+  padding: 0px;
+}
+.filter-label {
+  color: #cbd5e1;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.filter {
+  margin-bottom: 8px;
+}
