@@ -217,7 +217,7 @@ class Jobs extends Component {
             <JobItem job={job} key={job.id} />
           ))}
         </ul>
-        isListEmpty && {this.renderNoJobsView()}
+{isListEmpty && this.renderNoJobsView()}
       </div>
     )
   }
